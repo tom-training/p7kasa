@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.40019783.css",
-    "main.js": "/static/js/main.635fdacb.js",
-    "static/media/BannerSloganMob.svg": "/static/media/BannerSloganMob.159d69c8cac82732199930e2e78c6b65.svg",
-    "static/media/Banner.png": "/static/media/Banner.93ebd71e7db164475d9a.png",
-    "static/media/LOGO.svg": "/static/media/LOGO.ac38b36ec692f2f5731bc84c1ac2030e.svg",
-    "index.html": "/index.html",
-    "static/media/Vector.svg": "/static/media/Vector.3217e7bc24fd5c315d4a363924e4cabb.svg",
-    "static/media/GreyStar.svg": "/static/media/GreyStar.6675cad5e82b20562acb00a246ae8821.svg",
-    "static/media/star.svg": "/static/media/star.2e8b6d39ec10b49881098ba3b0210363.svg",
-    "static/media/arrowbck.svg": "/static/media/arrowbck.cdd03842d31401ee166dc7512d262702.svg",
-    "static/media/arrowfd.svg": "/static/media/arrowfd.56557f942edffe00a45e68dee308575a.svg",
-    "main.40019783.css.map": "/static/css/main.40019783.css.map",
-    "main.635fdacb.js.map": "/static/js/main.635fdacb.js.map"
+    "main.css": "/p7kasa/static/css/main.40019783.css",
+    "main.js": "/p7kasa/static/js/main.d68630d4.js",
+    "static/media/BannerSloganMob.svg": "/p7kasa/static/media/BannerSloganMob.159d69c8cac82732199930e2e78c6b65.svg",
+    "static/media/Banner.png": "/p7kasa/static/media/Banner.93ebd71e7db164475d9a.png",
+    "static/media/LOGO.svg": "/p7kasa/static/media/LOGO.ac38b36ec692f2f5731bc84c1ac2030e.svg",
+    "index.html": "/p7kasa/index.html",
+    "static/media/Vector.svg": "/p7kasa/static/media/Vector.3217e7bc24fd5c315d4a363924e4cabb.svg",
+    "static/media/GreyStar.svg": "/p7kasa/static/media/GreyStar.6675cad5e82b20562acb00a246ae8821.svg",
+    "static/media/star.svg": "/p7kasa/static/media/star.2e8b6d39ec10b49881098ba3b0210363.svg",
+    "static/media/arrowbck.svg": "/p7kasa/static/media/arrowbck.cdd03842d31401ee166dc7512d262702.svg",
+    "static/media/arrowfd.svg": "/p7kasa/static/media/arrowfd.56557f942edffe00a45e68dee308575a.svg",
+    "main.40019783.css.map": "/p7kasa/static/css/main.40019783.css.map",
+    "main.d68630d4.js.map": "/p7kasa/static/js/main.d68630d4.js.map"
   },
   "entrypoints": [
     "static/css/main.40019783.css",
-    "static/js/main.635fdacb.js"
+    "static/js/main.d68630d4.js"
   ]
 }

@@ -22,7 +22,8 @@ function Card(){
 
     // pour récupérer l'id passé en paramètre dans l'URL
     const appartId  = useParams()
-    
+    console.log(appartId)
+
     // mes useState()
     const [appartData, setAppartData] = useState([])
     const [pictures, setPictures] = useState([])
@@ -38,7 +39,7 @@ function Card(){
     const navigate = useNavigate();  
     
     // le fichier json en mode url pour pouvoir être exploité via une fetch
-    const url = '../liste.json'
+    const url = '../../liste.json'
 
     useEffect(() => {  
          

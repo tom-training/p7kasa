@@ -20,7 +20,7 @@ function Header(props) {
   return (
     <nav>
 
-      <Link to="/">
+      <Link to="/p7kasa">
         <img alt="logo de kasa" src={Logo} className={HeaderCSS.logo} />
       </Link>
 

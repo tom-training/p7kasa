@@ -39,7 +39,7 @@ function Card(){
     const navigate = useNavigate();  
     
     // le fichier json en mode url pour pouvoir être exploité via une fetch
-    const url = '../../liste.json'
+    //const url = 'liste.json'
 
     useEffect(() => {  
          
@@ -48,7 +48,7 @@ function Card(){
         setDataLoading(true)
         
         try{
-          const response = await fetch(url)
+          const response = await fetch("liste.json")
           const allAppart  = await response.json()
 
           const singleAppart = allAppart.find((apt)=> apt.id === appartId.id)

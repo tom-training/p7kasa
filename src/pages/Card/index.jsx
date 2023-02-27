@@ -48,7 +48,7 @@ function Card(){
         setDataLoading(true)
         
         try{
-          const response = await fetch("liste.json")
+          const response = await fetch("../liste.json")
           const allAppart  = await response.json()
 
           const singleAppart = allAppart.find((apt)=> apt.id === appartId.id)
